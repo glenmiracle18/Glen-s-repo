@@ -1,2 +1,4 @@
-# Glen-s-repo
-My first repository on Github.
+# Hello world
+My first repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
